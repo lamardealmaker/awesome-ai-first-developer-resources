@@ -1,6 +1,6 @@
 # Awesome AI-First Developer Resources
 
-A curated list of must-visit sites, tools and communities for building AI-first products.
+A curated list of must-visit sites, tools and communities for building AI-first products. AI-First development refers to leveraging AI to build software faster and more efficently. This comprehensive list of websites, tools, and communities will help AI-First Developers (from beginners to experts) learn, build, and stay inspired in this rapidly evolving field. It's organized into categories for easy navigation, covering everything from educational resources and vibecoding (AI-assisted coding) to essential tools and vibrant communities.
 
 ## Index
 - [Learning AI-First Development](#learning-ai-first-development)
