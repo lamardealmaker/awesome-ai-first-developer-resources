@@ -87,7 +87,7 @@ A curated list of must-visit sites, tools and communities for building AI-first 
 - **[Shawn “Swyx” Wang (X)](https://twitter.com/swyx)** – Thought leader on the AI Engineer movement and tooling.  
 - **[Harrison Chase (X)](https://twitter.com/hwchase17)** – Creator of LangChain sharing LLM app examples and tips.  
 - **[Simon Willison (X)](https://twitter.com/simonw)** – Developer experimenting with LLMs and data-driven tooling.  
-- **[Lamar Cannon (X)](https://twitter.com/lamardealmaker)** – Entrepreneur highlighting AI deal-making and product opportunities.  
+- **[Lamar Cannon (X)](https://twitter.com/lamardealmaker)** – AI engineer sharing insights on AI first development, BCI, robots & drones. 
 - **[Hugging Face Forum & Discord](https://discuss.huggingface.co/)** – Active community for questions, showcases and collaboration.  
 - **[Reddit r/MachineLearning](https://www.reddit.com/r/MachineLearning/)** – Discussions and papers on ML research and industry news.  
 - **[Reddit r/ArtificialIntelligence](https://www.reddit.com/r/artificial/)** – Broad AI news, debates and product announcements.  
